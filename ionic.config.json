@@ -1,0 +1,7 @@
+{
+  "name": "geo-tracking",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
